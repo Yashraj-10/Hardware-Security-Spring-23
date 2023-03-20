@@ -1,3 +1,7 @@
 ecp/
 ksgen_verilog/
 Tutorial-1/check.py
+Assignment_1/*.tar.xz
+Assignment_1/a.out
+Assignment_1/karatsuba_gf163.v
+Assignment_1/karatsuba_gf163_TB.v
